@@ -1,1 +1,14 @@
+# vscode config
 .vscode
+
+# mlflow
+mlflow.db
+artifacts/
+models/
+mlruns/
+
+# data
+data/
+
+# serialized models
+.bin
