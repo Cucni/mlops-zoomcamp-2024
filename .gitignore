@@ -15,3 +15,6 @@ data/
 
 # serialized models
 .bin
+
+# python cache
+__pycache__
